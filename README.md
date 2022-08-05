@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there👋  
+#### My name is Alexander and I am a novice FrontEnd developer
+---
+- 👯 I’m I want to work to live, not live to work
+- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently working on finding my dream job
+- 🤔 I’m looking for help in mastering the profession of frontend-developer
+- 💬 Ask me why I need it
+- 📫 How to reach me: [MY EMAIL](krivouzis1985@gmail.com)
 
-<!--
-**aleksandr-krivoruchko/aleksandr-krivoruchko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####My stack and tools
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
