@@ -1,5 +1,5 @@
 ### Hi there👋  
-#### My name is Alexander and I am a novice FrontEnd developer
+#### My name is Aleksandr and I am a novice FrontEnd developer
 ---
 - 👯 I’m I want to work to live, not live to work
 - 🌱 I’m currently learning how to teach myself
