@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning how to teach myself
 - 🔭 I’m currently working on finding my dream job
 - 🤔 I’m looking for help in mastering the profession of frontend-developer
-- 💬 Ask me why I need it
 - 📫 How to reach me: [krivouzis1985@gmail.com](krivouzis1985@gmail.com)
 
 #### My stack and tools
